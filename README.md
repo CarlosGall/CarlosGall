@@ -83,7 +83,7 @@
 <ul>
 
 <li>
-<a href="[https://linkedin.com/in/carlos-gallego](https://www.linkedin.com/in/carlos-gallego-/?locale=es)" target="_blank">
+<a href="https://github.com/CarlosGall" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  [Carlos Gallego]-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
